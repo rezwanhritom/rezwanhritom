@@ -10,7 +10,7 @@
 
 🎓 Computer Science student at **BRAC University**  
 🧠 Learning, building, and experimenting with software  
-🛠 I enjoy working across web, app, game, and AI-related tools  
+🛠 I enjoy working across web, app, game, and AI-related development  
 
 ---
 
