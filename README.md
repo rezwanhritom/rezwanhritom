@@ -18,7 +18,7 @@
 
 <p>
   <a href="mailto:rezwanurxrahman@gmail.com">
-    <img src="https://img.shields.io/badge/Email-rezwanhritom1537%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-rezwanurxrahman%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/rezwanhritom">
     <img src="https://img.shields.io/badge/LinkedIn-rezwanhritom-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
